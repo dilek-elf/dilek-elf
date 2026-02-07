@@ -15,8 +15,7 @@ I studied literature, which means I love stories, details, and making sense of t
 
 ## 👩‍💻 About Me
 
-- 🌿-I don’t rush learning. I prefer steady progress, good structure, and thoughtful design.  
-- Every project is a chance to learn something new.
+- 🌿-I don’t rush learning. I prefer steady progress, good structure, and thoughtful design. Every project is a chance to learn something new.
 - 🧠 **Mindset**: I prefer learning things properly instead of quickly. I value clarity, structure, and simplicity.
 - ❓ **Always** ask questions.
 - ✨ **Hobbies & Interests**
@@ -28,7 +27,6 @@ I studied literature, which means I love stories, details, and making sense of t
 - Build things that make sense and feel good to use.
 - Stay patient and trust the learning process.
 - Balance learning, creativity, and everyday life.
--
 
 ## ✨ Fun facts
 
@@ -36,7 +34,7 @@ I studied literature, which means I love stories, details, and making sense of t
 - I love books as much as I love learning new things.
 - My dog keeps me company while I study.
   
-- 🤝 Let’s Connect
+  🤝 Let’s Connect
 
 You can find me here:
 GitHub: @dilek-elf
