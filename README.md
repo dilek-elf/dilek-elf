@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hello there, I’m Dilek 👋  
 
-Hello there, I’m Dilek 👋  
 🐶 Dog mom | 📚 Literature graduate | 💻 Web development beginner
 
 Welcome to my GitHub profile!
@@ -36,9 +35,8 @@ I studied literature, which means I love stories, details, and making sense of t
 - I believe small progress still counts.
 - I love books as much as I love learning new things.
 - My dog keeps me company while I study.
+  
 - 🤝 Let’s Connect
-
-I’m always open to learning from others, sharing ideas, and connecting with people who enjoy web development, creativity, or thoughtful design.
 
 You can find me here:
 GitHub: @dilek-elf
