@@ -6,17 +6,17 @@ Welcome to my GitHub profile!
 
 I studied literature, which means I love stories, details, and making sense of things. Recently, I started learning web development, where I now do the same thing but with code (and more bugs).
 
-## What I’m learning
+## 📚 Currently studying
 
+- Studying IT & Web Development.
 - HTML, CSS, JavaScript, and the fundamentals of modern web development.
 - Small projects and exercises to better understand structure, layout, and interactivity.
 - Clean design, responsive layouts, and user-friendly interfaces.
 
 ## 👩‍💻 About Me
 
-- 📚 **Currently**: Studying IT & Web Development.
 - 🌿-I don’t rush learning. I prefer steady progress, good structure, and thoughtful design.  
-  Every project is a chance to learn something new.
+- Every project is a chance to learn something new.
 - 🧠 **Mindset**: I prefer learning things properly instead of quickly. I value clarity, structure, and simplicity.
 - ❓ **Always** ask questions.
 - ✨ **Hobbies & Interests**
