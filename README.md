@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--#
-
 Hello there, I’m Dilek 👋  
 🐶 Dog mom | 📚 Literature graduate | 💻 Web development beginner
 
@@ -47,4 +45,3 @@ GitHub: @dilek-elf
 
 Thanks for stopping by 🌼
 
--->
