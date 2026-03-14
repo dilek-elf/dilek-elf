@@ -1,6 +1,6 @@
 ## Hello there, I’m Dilek 👋  
 
-🐶 Dog mom | 📚 Literature graduate | 💻 Web development beginner
+| 📚 Literature graduate | 💻 Web development beginner
 
 Welcome to my GitHub profile!
 
