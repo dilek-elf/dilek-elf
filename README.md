@@ -1,6 +1,6 @@
 ## Hello there, I’m Dilek 👋  
 
-| 📚 Literature graduate | 💻 Web development beginner
+📚 Literature graduated turned 💻 Junier Web Developer
 
 Welcome to my GitHub profile!
 
@@ -8,10 +8,10 @@ I studied literature, which means I love stories, details, and making sense of t
 
 ## 📚 Currently studying
 
-- Studying IT & Web Development.
-- HTML, CSS, JavaScript, and the fundamentals of modern web development.
-- Small projects and exercises to better understand structure, layout, and interactivity.
-- Clean design, responsive layouts, and user-friendly interfaces.
+- **Frontend:** HTML5, CSS (Flexbox/Grid), JavaScript
+- **Design:** Responsive Web Design, User-Centric Interfaces
+- **Tools:** Git, GitHub, VS Code
+- **Soft Skills:** Analytical Thinking, Technical Writing, Localization
 
 ## 👩‍💻 About Me
 
@@ -24,8 +24,8 @@ I studied literature, which means I love stories, details, and making sense of t
 ## 📌 Goals
 
 - Grow into a confident junior web developer.
-- Build things that make sense and feel good to use.
-- Stay patient and trust the learning process.
+- I aim for code that is as readable as a well-written book.
+- I believe in understanding the "why" behind the code, not just copy-pasting solutions.
 - Balance learning, creativity, and everyday life.
 
 ## ✨ Fun facts
@@ -37,7 +37,7 @@ I studied literature, which means I love stories, details, and making sense of t
   🤝 Let’s Connect
 
 You can find me here:
-GitHub: @dilek-elf
+LinkedIn: www.linkedin.com/in/dilek-elf-504b403a5
 
 Thanks for stopping by 🌼
 
