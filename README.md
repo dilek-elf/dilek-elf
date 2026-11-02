@@ -1,43 +1,51 @@
 ## Hello there, I’m Dilek 👋  
 
-📚 Literature graduated turned 💻 Junier Web Developer
+Frontend Developer | React · TypeScript · Creative Problem-Solving
 
-Welcome to my GitHub profile!
+Literature graduate turned frontend developer. 📚 → 💻
 
-I studied literature, which means I love stories, details, and making sense of things. Recently, I started learning web development, where I now do the same thing but with code (and more bugs).
+I've always loved stories, details, and making sense of complex things. Today, I bring that same curiosity into building responsive, thoughtful, and user-friendly web experiences.
 
-## 📚 Currently studying
+After completing my frontend development training at DCI Digital Career Institute, I'm continuing to explore new technologies, improve my skills, and create projects that combine functionality with good design..
 
-- **Frontend:** HTML5, CSS (Flexbox/Grid), JavaScript
-- **Design:** Responsive Web Design, User-Centric Interfaces
-- **Tools:** Git, GitHub, VS Code
-- **Soft Skills:** Analytical Thinking, Technical Writing, Localization
+🛠️ Tech Stack
 
-## 👩‍💻 About Me
+Frontend: HTML · CSS · JavaScript · TypeScript · React
 
-- 🌿-I don’t rush learning. I prefer steady progress, good structure, and thoughtful design. Every project is a chance to learn something new.
-- 🧠 **Mindset**: I prefer learning things properly instead of quickly. I value clarity, structure, and simplicity.
-- ❓ **Always** ask questions.
-- ✨ **Hobbies & Interests**
-  I enjoy cozy movie nights, going to concerts, baking from scratch, traveling + testing local kitchen, and getting lost in a good book.
+Styling: Tailwind CSS · DaisyUI · Responsive Design
 
-## 📌 Goals
+Tools: Git · GitHub · VS Code · Vite
 
-- Grow into a confident junior web developer.
-- I aim for code that is as readable as a well-written book.
-- I believe in understanding the "why" behind the code, not just copy-pasting solutions.
-- Balance learning, creativity, and everyday life.
+Exploring: Agentic Coding · AI-Assisted Development · Web Accessibility
 
-## ✨ Fun facts
+✨ Featured Project
 
-- I believe small progress still counts.
-- I love books as much as I love learning new things.
-- My dog keeps me company while I study.
-  
-  🤝 Let’s Connect
+Friends | Interactive React Web App
+
+A Friends-inspired web experience combining interactive components, dynamic content, and responsive design.
+
+Built with: React · Vite · Tailwind CSS
+
+☕ Explore the live website: 
+
+
+A Little More About Me
+
+Before moving into tech, I gained experience in team leadership and international business operations. I bring that background into development through clear communication, ownership, and collaborative problem-solving.
+
+I believe good code should be as readable as a well-written book.
+
+Outside of coding, you'll probably find me reading, exploring new places, baking something, or spending time with my dog. 🐾
+
+🤝 Let's Connect
+
+I'm interested in junior frontend opportunities, creative projects, and connecting with other developers.
+
+Find me on LinkedIn or explore my repositories.
+
+Thanks for stopping by! 🌼
 
 You can find me here:
 LinkedIn: www.linkedin.com/in/dilek-elf-504b403a5
 
-Thanks for stopping by 🌼
 
