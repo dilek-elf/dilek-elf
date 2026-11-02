@@ -8,7 +8,7 @@ I've always loved stories, details, and making sense of complex things. Today, I
 
 After completing my frontend development training at DCI Digital Career Institute, I'm continuing to explore new technologies, improve my skills, and create projects that combine functionality with good design..
 
-🛠️ ## Tech Stack
+🛠️  Tech Stack
 
 Frontend: HTML · CSS · JavaScript · TypeScript · React
 
@@ -18,7 +18,7 @@ Tools: Git · GitHub · VS Code · Vite
 
 Exploring: Agentic Coding · AI-Assisted Development · Web Accessibility
 
-✨ ## Featured Project
+✨  Featured Project
 
 Friends | Interactive React Web App
 
