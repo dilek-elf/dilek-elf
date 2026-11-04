@@ -46,6 +46,8 @@ Find me on LinkedIn or explore my repositories.
 Thanks for stopping by! 🌼
 
 You can find me here:
-LinkedIn: www.linkedin.com/in/dilek-elf-504b403a5
+LinkedIn: www.linkedin.com/in/dilek-elf
+
+
 
 
